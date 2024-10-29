@@ -10,7 +10,7 @@
 ## About Me 🚀
 
 - 🔭 **Currently Working On:**  
-  - [![SolarFN](https://dsc.gg/solarfnv2](https://cdn.discordapp.com/avatars/1142920642111488163/a3d98ba42a56e60d39a236c564162354.webp?size=256)](https://dsc.gg/solarfnv2)
+  - [![SolarFN](https://cdn.discordapp.com/avatars/1142920642111488163/a3d98ba42a56e60d39a236c564162354.webp?size=256)](https://dsc.gg/solarfnv2)
   - [SlurpV2](https://discord.com/oauth2/authorize?client_id=1136992916481523733)
 
 - 🌱 **Learning:**  
