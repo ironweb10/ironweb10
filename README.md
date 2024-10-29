@@ -11,7 +11,7 @@
 
 **- 🌱 I’m currently learning nodejs, python, htmls, C# and C++**
 
-**- 💬 Ask me about eanythink on my discord: dsc.gg/iron-web10**
+**- 💬 Ask me about eanythink on my [Discord](https://dsc.gg/iron-web10)**
 
 
 ## GitHub Profile Views
