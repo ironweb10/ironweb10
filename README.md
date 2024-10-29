@@ -1,21 +1,19 @@
 ### Hi there 👋
 
-<!--
+
 **ironweb10/ironweb10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![iron web10's Stats](https://github-readme-stats.vercel.app/api?username=ironweb10&theme=highcontrast&show_icons=true&hide_border=true&count_private=false) ![iron web10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ironweb10&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Info -->
+
+- 🔭 I’m currently working on SolarFN and SlurpV2
+- 🌱 I’m currently learning nodejs, python, htmls, C# and C++
+- 💬 Ask me about eanythink on my discord: dsc.gg/iron-web10
+
+
 ## GitHub Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=ironweb10)
 
 
-##https://iron-web10-hxd.glitch.me/
+
