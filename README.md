@@ -8,7 +8,9 @@
 ## Info -->
 
 **- 🔭 I’m currently working on SolarFN and SlurpV2**
+
 **- 🌱 I’m currently learning nodejs, python, htmls, C# and C++**
+
 **- 💬 Ask me about eanythink on my discord: dsc.gg/iron-web10**
 
 
