@@ -7,11 +7,11 @@
 
 ## Info -->
 
-**- 🔭 I’m currently working on SolarFN and SlurpV2**
+**- 🔭 I’m currently working on [SolarFN](https://dsc.gg/solarfnv2) and [SlurpV2](https://discord.com/oauth2/authorize?client_id=1136992916481523733).**
 
-**- 🌱 I’m currently learning nodejs, python, htmls, C# and C++**
+**- 🌱 I’m currently learning nodejs, python, html, C# and C++.**
 
-**- 💬 Ask me about eanythink on my [Discord](https://dsc.gg/iron-web10)**
+**- 💬 Ask me about eanythink on my [Discord](https://dsc.gg/iron-web10).**
 
 
 ## GitHub Profile Views
