@@ -9,8 +9,10 @@
 
 ## About Me 🚀
 
-- 🔭 **Currently Working On:**  
+- 🔭 **Currently Working On:**
+
 [![SolarFN](https://cdn.discordapp.com/avatars/1142920642111488163/a3d98ba42a56e60d39a236c564162354.webp?size=48)](https://dsc.gg/solarfnv2)  [![SlurpV2](https://cdn.discordapp.com/avatars/1136992916481523733/6290a11850aedb4a9481afbf9304b821.png?size=48)](https://discord.com/oauth2/authorize?client_id=1136992916481523733)
+
 
 - 🌱 **Learning:**  
   - Node.js  
