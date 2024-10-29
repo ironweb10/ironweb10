@@ -1,47 +1,93 @@
-# 🌟 Welcome to My GitHub Profile! 👋
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil de GitHub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #1f1c2c, #928DAB);
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 3em;
+            animation: fadeIn 1s ease-in;
+        }
+        h2 {
+            margin-top: 20px;
+            font-size: 2em;
+        }
+        a {
+            color: #61dafb;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+        a:hover {
+            color: #fff;
+        }
+        .badge {
+            display: inline-block;
+            margin: 10px;
+            background-color: #333;
+            padding: 10px;
+            border-radius: 5px;
+            transition: transform 0.3s;
+        }
+        .badge:hover {
+            transform: scale(1.1);
+        }
+        .fun-fact {
+            font-style: italic;
+            margin-top: 30px;
+            font-size: 1.2em;
+        }
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+<body>
 
----
+    <h1>🌟 Bienvenido a mi perfil de GitHub! 👋</h1>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ironweb10&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)](https://github.com/ironweb10)  
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ironweb10&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)](https://github.com/ironweb10)
+    <div>
+        <a href="https://github.com/ironweb10" class="badge">![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ironweb10&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)</a>
+        <a href="https://github.com/ironweb10" class="badge">![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ironweb10&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)</a>
+    </div>
 
----
+    <h2>Sobre mí 🚀</h2>
+    <p>
+        - 🔭 <strong>Actualmente trabajando en:</strong> <br>
+        &nbsp;&nbsp;&nbsp; [SolarFN](https://dsc.gg/solarfnv2) <br>
+        &nbsp;&nbsp;&nbsp; [SlurpV2](https://discord.com/oauth2/authorize?client_id=1136992916481523733) <br>
+        <br>
+        - 🌱 <strong>Aprendiendo:</strong> <br>
+        &nbsp;&nbsp;&nbsp; Node.js, Python, HTML, C#, C++ <br>
+        <br>
+        - 💬 <strong>Contáctame en:</strong> <br>
+        &nbsp;&nbsp;&nbsp; [Discord](https://dsc.gg/iron-web10) 
+    </p>
 
-## About Me 🚀
+    <h2>👁️ Vistas del perfil 🔍</h2>
+    <a href="https://komarev.com/ghpvc/?username=ironweb10" class="badge">![Profile Views](https://komarev.com/ghpvc/?username=ironweb10)</a>
 
-- 🔭 **Currently Working On:**  
-  - [SolarFN](https://dsc.gg/solarfnv2)  
-  - [SlurpV2](https://discord.com/oauth2/authorize?client_id=1136992916481523733)
+    <h2>🌈 Conéctate conmigo</h2>
+    <a href="https://www.linkedin.com/in/yourprofile" class="badge">LinkedIn</a>
+    <a href="https://twitter.com/yourprofile" class="badge">Twitter</a>
 
-- 🌱 **Learning:**  
-  - Node.js  
-  - Python  
-  - HTML  
-  - C#  
-  - C++  
+    <div class="fun-fact">
+        "El único límite para nuestra realización del mañana son nuestras dudas de hoy." — Franklin D. Roosevelt
+    </div>
 
-- 💬 **Reach Me On:**  
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/iron-web10)
+    <img src="https://media.giphy.com/media/1xV0di6sp4T5aoOzLk/giphy.gif" alt="Background Animation" style="width:100%; margin-top:20px;">
 
----
-
-## 🌀 Profile Views 🔍
-![Profile Views](https://komarev.com/ghpvc/?username=ironweb10)
-
----
-
-### 🌈 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-
----
-
-### ✨ Fun Fact
-> "The only limit to our realization of tomorrow is our doubts of today." — Franklin D. Roosevelt
-
----
-
-![Background Animation](https://media.giphy.com/media/1xV0di6sp4T5aoOzLk/giphy.gif)  
-*This is just a placeholder for a background animation. Replace with your own GIF if desired!*
-
----
+</body>
+</html>
