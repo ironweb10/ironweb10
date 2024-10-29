@@ -1,35 +1,47 @@
-# Hi there! 👋 Welcome to my GitHub profile
+# 🌟 Welcome to My GitHub Profile! 👋
 
 ---
 
-![ironweb10's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ironweb10&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)  
-![ironweb10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ironweb10&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ironweb10&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)](https://github.com/ironweb10)  
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ironweb10&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)](https://github.com/ironweb10)
 
 ---
 
 ## About Me 🚀
 
-<div align="center">
-    <img src="https://media.giphy.com/media/xT9IgGg1qQ12nOZ5sE/giphy.gif" width="300" />
-</div>
-
 - 🔭 **Currently Working On:**  
-  - [SolarFN](https://dsc.gg/solarfnv2) ![SolarFN Logo](https://media.giphy.com/media/l4FGwHe7eX2u8UzUs/giphy.gif)
-  - [SlurpV2](https://discord.com/oauth2/authorize?client_id=1136992916481523733) ![SlurpV2 Logo](https://media.giphy.com/media/3oEjI4n5IYABEmz2Ik/giphy.gif)
+  - [SolarFN](https://dsc.gg/solarfnv2)  
+  - [SlurpV2](https://discord.com/oauth2/authorize?client_id=1136992916481523733)
 
 - 🌱 **Learning:**  
-  Node.js, Python, HTML, C#, C++
+  - Node.js  
+  - Python  
+  - HTML  
+  - C#  
+  - C++  
 
 - 💬 **Reach Me On:**  
-  [Discord](https://dsc.gg/iron-web10)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/iron-web10)
 
 ---
 
-<div align="center">
-    <img src="https://media.giphy.com/media/26Ff7OrK9y2XK4UmY/giphy.gif" width="200" />
-</div>
-
-## Profile Views 🔍
+## 🌀 Profile Views 🔍
 ![Profile Views](https://komarev.com/ghpvc/?username=ironweb10)
+
+---
+
+### 🌈 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+
+---
+
+### ✨ Fun Fact
+> "The only limit to our realization of tomorrow is our doubts of today." — Franklin D. Roosevelt
+
+---
+
+![Background Animation](https://media.giphy.com/media/1xV0di6sp4T5aoOzLk/giphy.gif)  
+*This is just a placeholder for a background animation. Replace with your own GIF if desired!*
 
 ---
