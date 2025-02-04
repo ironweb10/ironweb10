@@ -10,22 +10,51 @@
 ## About Me 🚀
 
 ### 🔭 Currently Working On:
-[![SolarFN](https://cdn.discordapp.com/avatars/1142920642111488163/a3d98ba42a56e60d39a236c564162354.webp?size=48)](https://dsc.gg/solarfnv2)  
-[![SlurpV2](https://cdn.discordapp.com/avatars/1136992916481523733/6290a11850aedb4a9481afbf9304b821.png?size=48)](https://discord.com/oauth2/authorize?client_id=1136992916481523733)
+<p align="left"> 
+  <a href="https://discord.gg/stelarfn" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <img src="https://cdn.discordapp.com/icons/1329876558005141664/a_0026682e860464a5a883569cb3f0ab08.gif" width="32" height="32" style="border-radius: 50%;" />
+    </picture> 
+  </a> 
+  <a href="https://discord.com/oauth2/authorize?client_id=1136992916481523733" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <img src="https://cdn.discordapp.com/avatars/1136992916481523733/f126e27f9ad9883f43cd1a13800ebc05.png" width="32" height="32" style="border-radius: 50%;" />
+    </picture> 
+  </a> 
+</p>
+
 
 ---
 
 ### 🌱 Learning:
-- Node.js  
-- Python  
-- HTML  
-- C#  
-- C++
+<p align="left">
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+  </a>
+</p>
+
 
 ---
 
 ### 💬 Reach Me On:
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/iron-web10)
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 10px;">
+   <a href="https://discord.com/users/846370965994864651">
+<img src="https://lanyard.cnrad.dev/api/846370965994864651?theme=dark&showDisplayName=true&idleMessage=1&animated=true
+  </a>
+</div>
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/iron-web10)" alt="Discord Presence">
 
 ---
 
