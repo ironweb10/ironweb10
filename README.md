@@ -13,12 +13,12 @@
 <p align="left"> 
   <a href="https://discord.gg/stelarfn" target="_blank" rel="noreferrer"> 
     <picture> 
-      <img src="https://cdn.discordapp.com/icons/1329876558005141664/a_0026682e860464a5a883569cb3f0ab08.gif" width="32" height="32" style="border-radius: 50%;" />
+      <img src="https://cdn.discordapp.com/icons/1329876558005141664/a_0026682e860464a5a883569cb3f0ab08.gif" width="52" height="52" style="border-radius: 50%;" />
     </picture> 
   </a> 
   <a href="https://discord.com/oauth2/authorize?client_id=1136992916481523733" target="_blank" rel="noreferrer"> 
     <picture> 
-      <img src="https://cdn.discordapp.com/avatars/1136992916481523733/f126e27f9ad9883f43cd1a13800ebc05.png" width="32" height="32" style="border-radius: 50%;" />
+      <img src="https://cdn.discordapp.com/avatars/1136992916481523733/f126e27f9ad9883f43cd1a13800ebc05.png" width="52" height="52" style="border-radius: 50%;" />
     </picture> 
   </a> 
 </p>
@@ -49,12 +49,14 @@
 ---
 
 ### 💬 Reach Me On:
-<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 10px;">
-   <a href="https://discord.com/users/846370965994864651">
-<img src="https://lanyard.cnrad.dev/api/846370965994864651?theme=dark&showDisplayName=true&idleMessage=Craking Fortnite 😎&animated=true">
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 10px;">
+  <a href="https://discord.com/users/846370965994864651">
+    <img src="https://lanyard.cnrad.dev/api/846370965994864651?theme=dark&showDisplayName=true&idleMessage=Craking%20Fortnite%20%F0%9F%98%8E&animated=true" alt="Discord Presence">
+  </a>
+  <a href="https://dsc.gg/iron-web10">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
   </a>
 </div>
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/iron-web10)" alt="Discord Presence">
 
 ---
 
