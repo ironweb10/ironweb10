@@ -51,7 +51,7 @@
 ### 💬 Reach Me On:
 <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 10px;">
    <a href="https://discord.com/users/846370965994864651">
-<img src="https://lanyard.cnrad.dev/api/846370965994864651?theme=dark&showDisplayName=true&idleMessage=1&animated=true
+<img src="https://lanyard.cnrad.dev/api/846370965994864651?theme=dark&showDisplayName=true&idleMessage=1&animated=true">
   </a>
 </div>
 <[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/iron-web10)" alt="Discord Presence">
