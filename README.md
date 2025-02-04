@@ -1,4 +1,4 @@
-# Hi there! 👋 Welcome to my GitHub profile
+# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt=""> Welcome to my GitHub profile
 
 ---
 
@@ -12,14 +12,14 @@
 ### 🔭 Currently Working On:
 <p align="left"> 
   <a href="https://discord.gg/stelarfn" target="_blank" rel="noreferrer"> 
-    <div style="width: 52px; height: 52px; border-radius: 50%; overflow: hidden; display: inline-block;">
-      <img src="https://cdn.discordapp.com/icons/1329876558005141664/a_0026682e860464a5a883569cb3f0ab08.gif" width="52" height="52" />
-    </div>
+    <picture> 
+      <img src="https://cdn.discordapp.com/icons/1329876558005141664/a_0026682e860464a5a883569cb3f0ab08.gif" width="52" height="52" style="border-radius: 50%;" />
+    </picture> 
   </a> 
   <a href="https://discord.com/oauth2/authorize?client_id=1136992916481523733" target="_blank" rel="noreferrer"> 
-    <div style="width: 52px; height: 52px; border-radius: 50%; overflow: hidden; display: inline-block;">
-      <img src="https://cdn.discordapp.com/avatars/1136992916481523733/f126e27f9ad9883f43cd1a13800ebc05.png" width="52" height="52" />
-    </div>
+    <picture> 
+      <img src="https://cdn.discordapp.com/avatars/1136992916481523733/f126e27f9ad9883f43cd1a13800ebc05.png" width="52" height="52" style="border-radius: 50%;" />
+    </picture> 
   </a> 
 </p>
 
