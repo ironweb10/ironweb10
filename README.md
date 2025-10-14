@@ -11,7 +11,7 @@
 
 ### 🔭 Currently Working On:
 <p align="left"> 
-  <a href="https://discord.gg/stelarfn" target="_blank" rel="noreferrer"> 
+  <a href="https://dsc.gg/stelarfnv2" target="_blank" rel="noreferrer"> 
     <picture> 
       <img src="https://cdn.discordapp.com/icons/1329876558005141664/a_0026682e860464a5a883569cb3f0ab08.gif" width="52" height="52" style="border-radius: 50%;" />
     </picture> 
