@@ -13,12 +13,18 @@
 <p align="left"> 
   <a href="https://dsc.gg/stelarfnv2" target="_blank" rel="noreferrer"> 
     <picture> 
-      <img src="https://cdn.discordapp.com/icons/1329876558005141664/a_0026682e860464a5a883569cb3f0ab08.gif" width="52" height="52" style="border-radius: 50%;" />
+      <img src="https://cdn.discordapp.com/attachments/1383872767111205005/1393575183151005846/logo.gif" width="52" height="52" style="border-radius: 50%;" />
     </picture> 
   </a> 
   <a href="https://discord.com/oauth2/authorize?client_id=1136992916481523733" target="_blank" rel="noreferrer"> 
     <picture> 
-      <img src="https://cdn.discordapp.com/avatars/1136992916481523733/f126e27f9ad9883f43cd1a13800ebc05.png" width="52" height="52" style="border-radius: 50%;" />
+      <img src="https://static.wikia.nocookie.net/fortnite/images/7/7a/Slurp_Juice_-_Item_-_Fortnite.png" width="52" height="52" style="border-radius: 50%;" />
+    </picture> 
+  </a> 
+  
+  <a href="https://api-o1.onrender.com" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <img src="https://api-o1.onrender.com/api/cdn/v1/icon.png" width="52" height="52" style="border-radius: 50%;" />
     </picture> 
   </a> 
 </p>
