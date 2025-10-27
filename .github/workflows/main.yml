@@ -28,10 +28,10 @@ jobs:
           config_padding: 12, 8
           config_output: metrics.svg
 
-         
+
           plugin_languages: yes
           plugin_languages_colors: github
-          plugin_languages_ignored:  css
+          plugin_languages_ignored: css
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
@@ -41,6 +41,4 @@ jobs:
           plugin_stars_limit: 3
 
           plugin_repositories: yes
-          plugin_repositories_featured: ironweb10/metrics, ironweb10/portfolio
-
           plugin_traffic: yes
