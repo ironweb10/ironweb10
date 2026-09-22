@@ -27,6 +27,11 @@
       <img src="https://api-o1.onrender.com/api/cdn/v1/icon.png" width="52" height="52" style="border-radius: 50%;" />
     </picture> 
   </a> 
+   <a href="https://discord.gg/ZyPnfpApNt" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <img src="https://private-user-images.githubusercontent.com/97882381/610595459-cfb46271-b27d-4f11-8a0e-a70e1e7bdedb.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTAwOTUxMjMsIm5iZiI6MTc5MDA5NDgyMywicGF0aCI6Ii85Nzg4MjM4MS82MTA1OTU0NTktY2ZiNDYyNzEtYjI3ZC00ZjExLThhMGUtYTcwZTFlN2JkZWRiLndlYnA_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkyMlQxNjMzNDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYzVjMzQ2N2MxZDI2YjNlMjNhYTI0NjY0NzhjNmVmNmI5MzVkODRjZDQwOGRkODUxNGY4ZTA5Nzk0NjZkZTJmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZ3ZWJwIn0.Cc6DDe-oKPIMaUPna1CW8BEXgtrrs_bTIU8hzFWNaIU" width="52" height="52" style="border-radius: 50%;" />
+    </picture> 
+  </a> 
 </p>
 
 
