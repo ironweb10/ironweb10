@@ -2,7 +2,7 @@
 
 ---
 
-![ironweb10's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ironweb10&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)  
+![ironweb10's GitHub Stats](https://github-stats-extended.vercel.app/api?username=ironweb10&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)  
 ![ironweb10's Top Languages](https://github.com/ironweb10/ironweb10/raw/refs/heads/main/github-metrics.svg)
 
 ---
