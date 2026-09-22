@@ -2,7 +2,7 @@
 
 ---
 
-![ironweb10's GitHub Stats](https://github-stats-extended.vercel.app/api?username=ironweb10&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)  ![Languages](https://github-stats-extended.vercel.app/api/top-langs?username=ironweb10&langs_count=8&theme=dark_github)
+![ironweb10's GitHub Stats](https://github-stats-extended.vercel.app/api?username=ironweb10&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)  ![Languages](https://github-stats-extended.vercel.app/api/top-langs?username=ironweb10&langs_count=3&theme=dark_github)
 ![ironweb10's Top Languages](https://github.com/ironweb10/ironweb10/raw/refs/heads/main/github-metrics.svg)
 
 ---
