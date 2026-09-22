@@ -49,6 +49,9 @@
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
   </a>
+    <a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank" rel="noreferrer">
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/960px-Ghidra_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" width="36" height="36" alt="Ghidra" />
+  </a>
 </p>
 
 
