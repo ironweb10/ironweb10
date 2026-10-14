@@ -10,29 +10,32 @@
 ## About Me 🚀
 
 ### 🔭 Currently Working On:
-<p align="left"> 
-  <a href="https://dsc.gg/stelarfnv2" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <img src="https://discordcdnbypass.vercel.app/attachments/1383872767111205005/1393575183151005846/logo.gif" width="52" height="52" style="border-radius: 50%;" />
-    </picture> 
-  </a> 
-  <a href="https://discord.com/oauth2/authorize?client_id=1136992916481523733" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <img src="https://static.wikia.nocookie.net/fortnite/images/7/7a/Slurp_Juice_-_Item_-_Fortnite.png" width="52" height="52" style="border-radius: 50%;" />
-    </picture> 
-  </a> 
-  
-  <a href="https://api-o1.onrender.com" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <img src="https://api-o1.onrender.com/api/cdn/v1/icon.png" width="52" height="52" style="border-radius: 50%;" />
-    </picture> 
-  </a> 
-   <a href="https://discord.gg/ZyPnfpApNt" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <img src="https://github.com/user-attachments/assets/cfb46271-b27d-4f11-8a0e-a70e1e7bdedb" width="52" height="52" style="border-radius: 50%;" />
-    </picture> 
-  </a> 
+<p align="left">
+  <a href="https://dsc.gg/stelarfnv2" target="_blank" rel="noreferrer">
+    <picture>
+      <img src="https://discordcdnbypass.vercel.app/attachments/1383872767111205005/1393575183151005846/logo.gif" width="52" height="52" style="border-radius: 12px;" />
+    </picture>
+  </a>
+
+  <a href="https://discord.com/oauth2/authorize?client_id=1136992916481523733" target="_blank" rel="noreferrer">
+    <picture>
+      <img src="https://static.wikia.nocookie.net/fortnite/images/7/7a/Slurp_Juice_-_Item_-_Fortnite.png" width="52" height="52" style="border-radius: 12px;" />
+    </picture>
+  </a>
+
+  <a href="https://api-o1.onrender.com" target="_blank" rel="noreferrer">
+    <picture>
+      <img src="https://api-o1.onrender.com/api/cdn/v1/icon.png" width="52" height="52" style="border-radius: 12px;" />
+    </picture>
+  </a>
+
+  <a href="https://discord.gg/ZyPnfpApNt" target="_blank" rel="noreferrer">
+    <picture>
+      <img src="https://github.com/user-attachments/assets/cfb46271-b27d-4f11-8a0e-a70e1e7bdedb" width="52" height="52" style="border-radius: 12px;" />
+    </picture>
+  </a>
 </p>
+
 
 
 ---
