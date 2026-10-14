@@ -57,6 +57,9 @@
     <a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank" rel="noreferrer">
     <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/960px-Ghidra_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" width="36" height="36" alt="Ghidra" />
   </a>
+    <a href="https://hex-rays.com/ida-pro" target="_blank" rel="noreferrer">
+    <img src="https://media.tenor.com/z7dBx5CQla4AAAAe/thug-life.png" width="36" height="36" alt="IDA PRO" />
+  </a>
 </p>
 
 
